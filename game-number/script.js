@@ -1,7 +1,7 @@
 const gameArea = document.querySelector(".game");
 const buttone = document.querySelector("button");
 const message = document.querySelector(".message");
-//new comment
+//new comment3
 let gamePlay = false;
 let score = 0;
 buttone.addEventListener("click", doThis);
